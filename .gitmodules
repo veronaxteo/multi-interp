@@ -1,0 +1,12 @@
+[submodule "Bunny"]
+	path = Bunny
+	url = https://github.com/BAAI-DCAI/Bunny.git
+[submodule "apex"]
+	path = apex
+	url = https://github.com/NVIDIA/apex
+[submodule "bunny-phi-2-siglip-lora"]
+	path = bunny-phi-2-siglip-lora
+	url = https://huggingface.co/BAAI/bunny-phi-2-siglip-lora
+[submodule "phi-2"]
+	path = phi-2
+	url = https://huggingface.co/microsoft/phi-2
