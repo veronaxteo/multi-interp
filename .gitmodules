@@ -1,6 +1,6 @@
 [submodule "Bunny"]
 	path = Bunny
-	url = https://github.com/BAAI-DCAI/Bunny.git
+	url = https://github.com/veronaxteo/Bunny.git
 [submodule "apex"]
 	path = apex
 	url = https://github.com/NVIDIA/apex
